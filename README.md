@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WickedKakashi
-- 👀 I’m interested in women
+- 👀 I’m interested in screens
 - 🌱 I’m currently learning writing this in a README file
-- 💞️ I’m looking to collaborate on github, obviously
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me? Like why even
 - 😄 Pronouns: why/why not
 - ⚡ Fun fact: My real name is Shū
